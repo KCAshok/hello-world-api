@@ -28,9 +28,10 @@
 					<cloudHubDeployment>
 			            <username>askmgvl</username>
 			            <password>Mgvl@123</password>
-			            <environment>Production</environment>
+			            <environment>Sandbox</environment>
 			            <applicationName>myappp</applicationName>
-			            <muleVersion>4.1.4</muleVersion> <!-- This is the runtime version as it appears on the CloudHub interface -->
+			            <muleVersion>4.1.4</muleVersion>
+					    <uri>https://anypoint.mulesoft.com/cloudhub/</uri>
 			            <properties>
 			                <key>value</key>
 			            </properties>
